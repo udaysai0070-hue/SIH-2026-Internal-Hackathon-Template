@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T150
 ### Team Details
-#### **Team Name** <<Stack Overflowed>> <br/>
+#### **TSTACK OVERFLOWED** <<Stack Overflowed>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
